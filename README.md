@@ -9,6 +9,6 @@ GCP Services Used :
 
 Looker Dashboard Results : https://lookerstudio.google.com/u/0/reporting/fd70012d-e6fe-4ce2-8f83-917e6a07af9a/page/JBhgD/edit
 
-Ckoud Storage : https://storage.googleapis.com/uber_data_analytics_sravya/uber_data.csv
+Cloud Storage : https://storage.googleapis.com/uber_data_analytics_sravya/uber_data.csv
 
 
