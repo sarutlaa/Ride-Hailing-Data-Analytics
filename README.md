@@ -21,6 +21,8 @@ Technologies Used:
   Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
  
   Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+  
 6. Published Looker Dashboard Results : https://lookerstudio.google.com/u/0/reporting/fd70012d-e6fe-4ce2-8f83-917e6a07af9a/page/JBhgD/edit
 
 
