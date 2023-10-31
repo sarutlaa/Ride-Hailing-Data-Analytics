@@ -16,9 +16,9 @@ Technologies Used:
         
         d. Looker : For analysing insights using visualizations. 
         
-3. Programming Lamguage : Python Scripting using pandas. 
-4. Modern Data Pipeine Tool - https://www.mage.ai/
-5. Dataset Used : TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
+2. Programming Lamguage : Python Scripting using pandas. 
+3. Modern Data Pipeine Tool - https://www.mage.ai/
+4. Dataset Used : TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
     Cloud Storage Link for Data set  - https://storage.googleapis.com/uber_data_analytics_sravya/uber_data.csv
     More info about dataset can be found here:
@@ -27,12 +27,12 @@ Technologies Used:
  
     Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
-6. DATA MODEL:
+5. DATA MODEL:
 
 ![image](https://github.com/sarutlaa/Ride-Hailing-Data-Analytics/assets/141533429/463c49aa-b147-4265-ae7c-4ea0bf473aec)
 
   
-7. Published Looker Dashboard Results :
+6. Published Looker Dashboard Results :
       https://lookerstudio.google.com/u/0/reporting/fd70012d-e6fe-4ce2-8f83-917e6a07af9a/page/JBhgD/edit
 
 
