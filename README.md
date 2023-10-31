@@ -27,7 +27,7 @@ Technologies Used:
  
     Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
-DATA MODEL:
+6. DATA MODEL:
 
 ![image](https://github.com/sarutlaa/Ride-Hailing-Data-Analytics/assets/141533429/463c49aa-b147-4265-ae7c-4ea0bf473aec)
 
