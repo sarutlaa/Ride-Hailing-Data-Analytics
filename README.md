@@ -8,14 +8,14 @@ ARCHITRCTURE:
 Technologies Used:
 1. GCP Services Used :
    
-  a. Ckoud Storage : For storing the dataset in csv form.
-  
-  b. Compute Engine : A VM to run the mage instance for running the ETL pipeline. 
-  
-  c. Big Query : For storing the Tranformed data into BigQuery
-  
-  d. Looker : For analysing insights using visualizations. 
-  
+        a. Ckoud Storage : For storing the dataset in csv form.
+        
+        b. Compute Engine : A VM to run the mage instance for running the ETL pipeline. 
+        
+        c. Big Query : For storing the Tranformed data into BigQuery
+        
+        d. Looker : For analysing insights using visualizations. 
+        
 3. Programming Lamguage : Python Scripting using pandas. 
 4. Modern Data Pipeine Tool - https://www.mage.ai/
 5. Dataset Used : TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
