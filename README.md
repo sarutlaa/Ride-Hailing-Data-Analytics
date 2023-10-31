@@ -33,7 +33,7 @@ Technologies Used:
 
   
 6. Published Looker Dashboard Results :
-      https://lookerstudio.google.com/u/0/reporting/fd70012d-e6fe-4ce2-8f83-917e6a07af9a/page/JBhgD/edit
+      https://lookerstudio.google.com/reporting/fd70012d-e6fe-4ce2-8f83-917e6a07af9a
 
 
 
