@@ -1,5 +1,5 @@
 # Ride-Hailing-Data-Analytics
-An end to end Data Engineering Project, involving Ride Hailing data analytics and insights using GCP Services like Compute Engine etc, Mage AI (Open Source ETL Tool) and Python pandas for scripting ETL processes. 
+An End to End Data Engineering Project, involving Ride Hailing data analytics and insights using GCP Services like Compute Engine etc, Mage AI (Open Source ETL Tool) and Python pandas for scripting ETL processes. 
 
 ARCHITRCTURE:
 
