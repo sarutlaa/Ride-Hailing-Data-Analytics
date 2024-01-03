@@ -16,7 +16,7 @@ Technologies Used:
         
         d. Looker : For analysing insights using visualizations. 
         
-2. Programming Lamguage : Python Scripting using pandas. 
+2. Programming Languages : Python Scripting using pandas. 
 3. Modern Data Pipeine Tool - https://www.mage.ai/
 4. Dataset Used : TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 
